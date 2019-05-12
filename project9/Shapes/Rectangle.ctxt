@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=a\ b
+comment0.target=Rectangle(Point,\ Point)
+comment1.params=
+comment1.target=double\ area()
+comment2.params=
+comment2.target=Point\ position()
+comment3.params=rect
+comment3.target=boolean\ equals(Rectangle)
+numComments=4

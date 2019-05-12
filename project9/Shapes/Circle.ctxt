@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=center\ radius
+comment0.target=Circle(Point,\ int)
+comment1.params=
+comment1.target=double\ area()
+comment2.params=
+comment2.target=Point\ position()
+comment3.params=circ
+comment3.target=boolean\ equals(Circle)
+numComments=4

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=pointa\ pointb\ pointc
+comment0.target=Triangle(Point,\ Point,\ Point)
+comment1.params=
+comment1.target=double\ area()
+comment2.params=
+comment2.target=Point\ position()
+comment3.params=tri
+comment3.target=boolean\ equals(Triangle)
+numComments=4
