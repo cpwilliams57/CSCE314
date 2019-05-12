@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Time()
+comment1.params=t
+comment1.target=int\ increment(Time)
+comment2.params=t\ interval
+comment2.target=void\ checkCondition(Time,\ int)
+numComments=3

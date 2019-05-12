@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=myId
+comment0.target=PostBox(java.lang.String)
+comment1.params=myId\ p
+comment1.target=PostBox(java.lang.String,\ PostBox)
+comment2.params=
+comment2.target=java.lang.String\ getId()
+comment3.params=
+comment3.target=void\ stop()
+comment4.params=recipient\ msg
+comment4.target=void\ send(java.lang.String,\ java.lang.String)
+comment5.params=
+comment5.target=java.util.List\ retrieve()
+comment6.params=
+comment6.target=void\ run()
+numComments=7
